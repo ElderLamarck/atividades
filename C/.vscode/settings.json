@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "*.tcc": "c",
+        "limits": "c",
+        "stdlib.h": "c"
+    }
+}
