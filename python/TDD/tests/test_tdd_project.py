@@ -13,7 +13,6 @@ def test_soma(a, b, res):
     assert res == res_calc
 
 
-
 @pytest.mark.parametrize("a, b, res",
                          [("7", 2, 9),
                           (3, "2", 5),
